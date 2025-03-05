@@ -5,8 +5,9 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-
+  // Set the base URL for GitHub Pages only in production mode
   base: mode === 'production' ? '/RedAccentGallery-Vite/' : '/',
+
   server: {
     host: "::",
     port: 8080,
