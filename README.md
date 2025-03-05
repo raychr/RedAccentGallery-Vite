@@ -51,7 +51,7 @@ $ npm run dev
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind,redux,jest,html,css,git,npm,react" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,tailwind,redux,jest,html,css,git,npm,react,vite" /><br>
 </div>
 
 <br/>
