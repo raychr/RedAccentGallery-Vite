@@ -36,9 +36,9 @@ const AboutSection = () => {
                 </p>
 
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mt-8 staggered-fade-in">
-                  <img src="https://source.unsplash.com/random/300x300?anime" alt="Gallery item" className="w-full h-32 object-cover rounded hover-scale" />
-                  <img src="https://source.unsplash.com/random/301x301?japan" alt="Gallery item" className="w-full h-32 object-cover rounded hover-scale" />
-                  <img src="https://source.unsplash.com/random/302x302?digital" alt="Gallery item" className="w-full h-32 object-cover rounded hover-scale" />
+                  <img src="https://i.pinimg.com/736x/62/60/30/6260308ef21e0007410e209aca7aa6f4.jpg" alt="Gallery item" className="w-full h-32 object-cover rounded hover-scale" />
+                  <img src="https://i.pinimg.com/736x/cf/b0/e0/cfb0e0cf75863620714a8268c12644e0.jpg" alt="Gallery item" className="w-full h-32 object-cover rounded hover-scale" />
+                  <img src="https://i.pinimg.com/736x/6b/83/bf/6b83bfd708400dcb5efc06859938eca4.jpg" alt="Gallery item" className="w-full h-32 object-cover rounded hover-scale" />
                 </div>
 
                 <button className="azuki-btn mt-8">VIEW ALL WORKS</button>
