@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="mb-8 md:mb-0">
             <span className="text-azuki-red font-bold text-lg mb-4 block">RAYCHR</span>
             <p className="text-white/60 text-xs max-w-xs">
-              A BRAND FOR THE METAVERSE. BY THE PEOPLE
+              THIS TEMPLATE WAS DESIGNED FOR USE IN GALLERY WEBSITES. ALL IMAGES USED WERE SOURCED FROM PINTEREST AND SHOULD BE PROPERLY CREDITED TO THEIR RESPECTIVE ARTISTS.
             </p>
           </div>
 
