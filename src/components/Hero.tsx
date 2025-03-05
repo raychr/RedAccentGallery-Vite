@@ -50,7 +50,8 @@ const Hero = () => {
                 </div>
               </div>
 
-              <div className="hidden md:block absolute right-0 top-20 text-white/60 text-xs font-mono max-w-[200px] animate-fade-in" style={{ animationDelay: '400ms' }}>
+              {/* Repositioned disclaimer text - moved it down and adjusted z-index */}
+              <div className="hidden md:block absolute right-0 top-67 text-white/60 text-xs font-mono max-w-[200px] animate-fade-in z-10" style={{ animationDelay: '400ms' }}>
                 <p>THIS TEMPLATE WAS DESIGNED FOR USE IN GALLERY WEBSITES. ALL IMAGES USED WERE SOURCED FROM PINTEREST AND SHOULD BE PROPERLY CREDITED TO THEIR RESPECTIVE ARTISTS.</p>
               </div>
             </div>
